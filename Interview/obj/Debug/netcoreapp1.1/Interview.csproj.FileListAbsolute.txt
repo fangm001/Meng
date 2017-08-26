@@ -1,0 +1,9 @@
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\bin\Debug\netcoreapp1.1\Interview.deps.json
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\bin\Debug\netcoreapp1.1\Interview.runtimeconfig.json
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\bin\Debug\netcoreapp1.1\Interview.runtimeconfig.dev.json
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\bin\Debug\netcoreapp1.1\Interview.dll
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\bin\Debug\netcoreapp1.1\Interview.pdb
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\obj\Debug\netcoreapp1.1\Interview.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\obj\Debug\netcoreapp1.1\Interview.AssemblyInfo.cs
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\obj\Debug\netcoreapp1.1\Interview.dll
+c:\users\me\documents\visual studio 2017\Projects\Interview\Interview\obj\Debug\netcoreapp1.1\Interview.pdb
